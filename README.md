@@ -1,4 +1,4 @@
-# Quiz Web App — Short README
+# Quiz Web App 
 ## Tools & technologies
 - HTML, CSS, JavaScript (vanilla)
 - JSON for question data
