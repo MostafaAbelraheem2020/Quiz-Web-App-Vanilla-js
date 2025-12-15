@@ -1,7 +1,8 @@
 # Quiz Web App (Vanilla JS)
 
 Interactive quiz built with plain HTML, CSS, and JavaScript. Questions are loaded from a local JSON file, a countdown runs for every question, and the app shows correct/incorrect progress plus a final result screen.
-This README was organized with assistance from AI to streamline its structure and formatting.
+
+*This README was organized with assistance from AI to streamline its structure and formatting.*
 
 ## Project screenshots
     ![Main quiz layout](imgs/Screen Shot-1.png)
